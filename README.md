@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Elias Braga 👋
 
-- 💻 Computer Operator | SGO - Optical Laboratory Management System.
-- 👨‍💻 Switching to Web3 - Blockchain Developer
+- 💻 Computer Operator | SGO - Sistema Gerencial de Laboratório Ótico.
+- 👨‍💻 Assistant and Employee | Casta Guilda | Moon Villa - Web3
 - 👨‍💻 Código Brazuca.
 
 ## Conecte-se comigo
